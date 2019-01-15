@@ -1,8 +1,5 @@
 # work
 <html>
- <head>
-  <title> Bretts cyber security thingy YAY </title>
- </head>
  <body>
  What is the field you are interested in and why? 
 im interested in white/gray hat hacking as hackers take power to do what they want and ive idolized them since i was 5
